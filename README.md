@@ -7,8 +7,6 @@
 
 Advanced traffic signal optimization using Deep Q-Networks (DQN) integrated with SUMO traffic simulator.
 
-![Training Results](results/results_vehicle_count.png)
-
 ---
 
 ## 📋 Table of Contents
