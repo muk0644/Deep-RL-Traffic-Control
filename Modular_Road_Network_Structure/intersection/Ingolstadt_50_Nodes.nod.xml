@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<nodes>
+	<node id="1" x="200" y="200" type="traffic_light" tl="TL1"/>
+	<node id="2" x="200" y="400" type="traffic_light" tl="TL2"/>
+	<node id="3" x="400" y="400" type="traffic_light" tl="TL3"/>
+	<node id="4" x="400" y="200" type="traffic_light" tl="TL4"/>
+	<node id="5" x="200" y="600" type="traffic_light" tl="TL5"/>
+	<node id="6" x="400" y="600" type="traffic_light" tl="TL6"/>
+	<node id="7" x="600" y="600" type="traffic_light" tl="TL7"/>
+	<node id="8" x="600" y="400" type="traffic_light" tl="TL8"/>
+	<node id="9" x="600" y="200" type="traffic_light" tl="TL9"/>
+	<node id="10" x="200" y="800" type="traffic_light" tl="TL10"/>
+	<node id="11" x="400" y="800" type="traffic_light" tl="TL11"/>
+	<node id="12" x="600" y="800" type="traffic_light" tl="TL12"/>
+	<node id="13" x="800" y="800" type="traffic_light" tl="TL13"/>
+	<node id="14" x="800" y="600" type="traffic_light" tl="TL14"/>
+	<node id="15" x="800" y="400" type="traffic_light" tl="TL15"/>
+	<node id="16" x="800" y="200" type="traffic_light" tl="TL16"/>
+	<node id="17" x="200" y="1000" type="traffic_light" tl="TL17"/>
+	<node id="18" x="400" y="1000" type="traffic_light" tl="TL18"/>
+	<node id="19" x="600" y="1000" type="traffic_light" tl="TL19"/>
+	<node id="20" x="800" y="1000" type="traffic_light" tl="TL20"/>
+	<node id="21" x="1000" y="1000" type="traffic_light" tl="TL21"/>
+	<node id="22" x="1000" y="800" type="traffic_light" tl="TL22"/>
+	<node id="23" x="1000" y="600" type="traffic_light" tl="TL23"/>
+	<node id="24" x="1000" y="400" type="traffic_light" tl="TL24"/>
+	<node id="25" x="1000" y="200" type="traffic_light" tl="TL25"/>
+	<node id="26" x="200" y="1200" type="traffic_light" tl="TL26"/>
+	<node id="27" x="400" y="1200" type="traffic_light" tl="TL27"/>
+	<node id="28" x="600" y="1200" type="traffic_light" tl="TL28"/>
+	<node id="29" x="800" y="1200" type="traffic_light" tl="TL29"/>
+	<node id="30" x="1000" y="1200" type="traffic_light" tl="TL30"/>
+	<node id="31" x="1200" y="1200" type="traffic_light" tl="TL31"/>
+	<node id="32" x="1200" y="1000" type="traffic_light" tl="TL32"/>
+	<node id="33" x="1200" y="800" type="traffic_light" tl="TL33"/>
+	<node id="34" x="1200" y="600" type="traffic_light" tl="TL34"/>
+	<node id="35" x="1200" y="400" type="traffic_light" tl="TL35"/>
+	<node id="36" x="1200" y="200" type="traffic_light" tl="TL36"/>
+	<node id="37" x="200" y="1400" type="traffic_light" tl="TL37"/>
+	<node id="38" x="400" y="1400" type="traffic_light" tl="TL38"/>
+	<node id="39" x="600" y="1400" type="traffic_light" tl="TL39"/>
+	<node id="40" x="800" y="1400" type="traffic_light" tl="TL40"/>
+	<node id="41" x="1000" y="1400" type="traffic_light" tl="TL41"/>
+	<node id="42" x="1200" y="1400" type="traffic_light" tl="TL42"/>
+	<node id="43" x="1400" y="1400" type="traffic_light" tl="TL43"/>
+	<node id="44" x="1400" y="1200" type="traffic_light" tl="TL44"/>
+	<node id="45" x="1400" y="1000" type="traffic_light" tl="TL45"/>
+	<node id="46" x="1400" y="800" type="traffic_light" tl="TL46"/>
+	<node id="47" x="1400" y="600" type="traffic_light" tl="TL47"/>
+	<node id="48" x="1400" y="400" type="traffic_light" tl="TL48"/>
+	<node id="49" x="1400" y="200" type="traffic_light" tl="TL49"/>
+	<node id="50" x="200" y="1600" type="traffic_light" tl="TL50"/>
+	<node id="c51" x="50.0" y="200" type="unregulated"/>
+	<node id="c52" x="50.0" y="400" type="unregulated"/>
+	<node id="c53" x="50.0" y="600" type="unregulated"/>
+	<node id="c54" x="50.0" y="800" type="unregulated"/>
+	<node id="c55" x="50.0" y="1000" type="unregulated"/>
+	<node id="c56" x="50.0" y="1200" type="unregulated"/>
+	<node id="c57" x="50.0" y="1400" type="unregulated"/>
+	<node id="c58" x="50.0" y="1600" type="unregulated"/>
+	<node id="c59" x="200" y="50.0" type="unregulated"/>
+	<node id="c60" x="200" y="1750.0" type="unregulated"/>
+	<node id="c61" x="400" y="50.0" type="unregulated"/>
+	<node id="c62" x="350.0" y="1600" type="unregulated"/>
+	<node id="c64" x="400" y="1550.0" type="unregulated"/>
+	<node id="c65" x="600" y="50.0" type="unregulated"/>
+	<node id="c66" x="600" y="1550.0" type="unregulated"/>
+	<node id="c67" x="800" y="50.0" type="unregulated"/>
+	<node id="c68" x="800" y="1550.0" type="unregulated"/>
+	<node id="c69" x="1000" y="50.0" type="unregulated"/>
+	<node id="c70" x="1000" y="1550.0" type="unregulated"/>
+	<node id="c71" x="1200" y="50.0" type="unregulated"/>
+	<node id="c72" x="1200" y="1550.0" type="unregulated"/>
+	<node id="c73" x="1400" y="50.0" type="unregulated"/>
+	<node id="c74" x="1400" y="1550.0" type="unregulated"/>
+	<node id="c75" x="1550.0" y="200" type="unregulated"/>
+	<node id="c76" x="1550.0" y="400" type="unregulated"/>
+	<node id="c77" x="1550.0" y="600" type="unregulated"/>
+	<node id="c78" x="1550.0" y="800" type="unregulated"/>
+	<node id="c79" x="1550.0" y="1000" type="unregulated"/>
+	<node id="c80" x="1550.0" y="1200" type="unregulated"/>
+	<node id="c81" x="1550.0" y="1400" type="unregulated"/>
+</nodes>

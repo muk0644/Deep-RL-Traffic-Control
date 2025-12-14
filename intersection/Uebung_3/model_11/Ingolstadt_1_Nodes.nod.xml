@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<nodes>
+	<node id="1" x="250" y="250" type="traffic_light" tl="TL1"/>
+	<node id="c2" x="62.5" y="250" type="unregulated"/>
+	<node id="c3" x="250" y="62.5" type="unregulated"/>
+	<node id="c4" x="250" y="437.5" type="unregulated"/>
+	<node id="c5" x="437.5" y="250" type="unregulated"/>
+</nodes>
