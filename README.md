@@ -87,7 +87,7 @@ sumo --version
 python train.py
 ```
 
-Results saved in: `models/Uebung_3/model_X/`
+Results will be saved in the `models/trained_models/` directory
 
 ### Testing
 
@@ -154,11 +154,13 @@ Deep-RL-Traffic-Control/
 │   └── SUMO_test.py
 │
 ├── intersection/             # SUMO configurations
-│   └── Uebung_3/
-│       ├── model_1/
-│       └── ...
+│   ├── model_configs/       # Traffic network models
+│   └── dummy/               # Test configurations
 │
 ├── models/                   # Trained models
+│   └── trained_models/
+│       ├── model_1_vehicle_count/
+│       └── model_2_queue_length/
 │
 └── results/                  # Training result graphs
     ├── results_vehicle_count.png
@@ -274,23 +276,6 @@ batch_size = 128
 ## 📝 License
 
 MIT License - see [LICENSE](LICENSE) file
-
----
-
-## 🚀 Upload to GitHub
-
-```bash
-cd "Deep-RL-Traffic-Control"
-git init
-git add .
-git commit -m "Initial commit: Deep RL Traffic Control"
-git remote add origin https://github.com/YOUR_USERNAME/Deep-RL-Traffic-Control.git
-git branch -M main
-git push -u origin main
-```
-
-**After uploading, add these topics to your repository:**
-`deep-learning` `reinforcement-learning` `traffic-control` `sumo` `pytorch` `dqn` `machine-learning` `smart-city` `traffic-optimization`
 
 ---
 
