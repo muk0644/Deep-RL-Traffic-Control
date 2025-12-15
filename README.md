@@ -173,6 +173,10 @@ Deep-RL-Traffic-Control/
 
 ### State Representation Comparison
 
+Trained for 500 episodes with two representations:
+
+#### 1. Vehicle Count (`volume_lane_fast`)
+
 ![Vehicle Count Results](results/results_vehicle_count.png)
 
 - ✅ Fast convergence (~300 episodes)
@@ -189,11 +193,7 @@ Deep-RL-Traffic-Control/
 - ✅ More realistic traffic modeling
 - Best for: Realistic congestion
 
-**Key Finding**: Vehicle count achieves faster and more stable learning, while queue length better captures real congestion dynamics
-- ✅ More realistic traffic modeling
-- Best for: Realistic congestion
-
-**Finding**: Vehicle count achieves faster learning; queue length better captures real congestion.
+**Key Finding**: Vehicle count achieves faster and more stable learning, while queue length better captures real congestion dynamics.
 
 ---
 
