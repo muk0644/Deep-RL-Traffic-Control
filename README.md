@@ -279,7 +279,7 @@ MIT License - see [LICENSE](LICENSE) file
 
 ---
 
-**Part of "Data Science and AI in Intelligent and Sustainable Mobility Systems" course**
+**This project is part of the "Data Science and AI in Intelligent and Sustainable Mobility Systems" course at Technische Hochschule Ingolstadt under Prof. Dr. Stefanie Schmidtner.**
 
 
 
